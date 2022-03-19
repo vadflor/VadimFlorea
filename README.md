@@ -69,6 +69,28 @@ I am a Beginner JavaScript / React Developer <img src="https://media.giphy.com/m
   certificate indicates the entire course was completed as validated by
   the student. The course duration represents the total video hours of
   the course at time of most recent completion.
+  <div align="center">
+  <a href="https://www.udemy.com/certificate/UC-61ef71fa-7b32-4546-a4f6-502948c7f3d9/" >
+    <img src="https://github.com/vadflor/VadimFlorea/blob/main/UC-61ef71fa-7b32-4546-a4f6-502948c7f3d9.jpeg" alt="Udemy certificate" width="500" heught="500" />
+  </a>
+ </div>
+ 
+ - 2021-2022. JavaScript v.2.0 (Basic). ItGid.info
+ 
+ The course is designed for those who start from scratch. The course
+contains all the topics necessary for the junior developer level
+competition and 3 projects. One project is getting weather via API, the
+second one is touch slider and keyboard. 5 units are devoted to
+working with AJAX. The course puts a lot of emphasis on arrays.
+<div align="center">
+  <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=p5mr84d27a" >
+    <img src="https://github.com/vadflor/VadimFlorea/blob/main/01_p5mr84d27a.png" alt="Udemy certificate" width="500" heught="500" />
+  </a>
+ </div>
+ 
+ Link to repositories with solved problems from this course by me: <a href="https://github.com/vadflor/JavaScript-2.0" >
+https://github.com/vadflor/JavaScript-2.0 </a>
+
 
 
   
