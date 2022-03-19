@@ -18,7 +18,58 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Beginner JavaScript / React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moldova -> Chisinau.
+
+- :telescope: I’m looking for a full time job as a Beginner JavaScript Developer.
+
+- :seedling: I am purposeful, friendly, sociable. I always like to learn something new.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VadimFlorea-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-florea-751723100/), [![Facebook Badge](https://img.shields.io/badge/-VadimFlorea-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Vadim.Flor/) or [![Telegram Badge](https://img.shields.io/badge/-VadimFlorea-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vadimflorea) 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+</div>
+
+---
+
+### :triangular_flag_on_post: Language Skills : 
+- :ru: Russian (native)
+- :moldova: Romanian (native)
+- :us: English (intermediate)
+
+---
+
+### Education and Training :
+- 2004-2009. Faculty: Informatics / Computer Science - State University of the Republic of Moldova.
+- 2020-2020. Build Responsive Real-World Websites with HTML and CSS. Udemy.com
+
+  This certificate above verifies that Vadim Florea successfully completed
+  the course Build Responsive Real-World Websites with HTML and CSS
+  on 11/12/2020 as taught by Jonas Schmedtmann on Udemy. The
+  certificate indicates the entire course was completed as validated by
+  the student. The course duration represents the total video hours of
+  the course at time of most recent completion.
+
+
   
  
