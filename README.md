@@ -92,6 +92,10 @@ working with AJAX. The course puts a lot of emphasis on arrays.
 https://github.com/vadflor/JavaScript-2.0 </a>
 
 
+---
+
+### :dog: Pet projects : 
+        Coming soon ...
 
   
  
